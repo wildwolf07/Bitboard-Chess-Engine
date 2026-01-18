@@ -1,0 +1,2 @@
+echo "chess_engine" > .gitignore
+echo ".DS_Store" >> .gitignore
