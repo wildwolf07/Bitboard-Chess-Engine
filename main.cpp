@@ -13,7 +13,7 @@ void reset_board() {
 }
 
 int main() {
-    std::cout << "--- HFT Chess Engine v1.0 (Final) ---" << std::endl;
+    std::cout << "---Chess Engine v1.0---" << std::endl;
     
     init_leapers_attacks();
     init_magic_numbers();
